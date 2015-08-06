@@ -6,3 +6,6 @@ The staging area is a but of an "intermediate" between the working directory and
 
 How can you use the staging area to make sure you have one commit per logical change?
 Using the staging area we can add only the code we want to commit. Using git diff --staged we can compare the staging area to our git repo to see the changes we are about to commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches would help when dealing with localizations of software or creating experimental features. They're also useful when having multiple people working on code together. This allows us to freely work on the code without worrying about breaking stuff.
