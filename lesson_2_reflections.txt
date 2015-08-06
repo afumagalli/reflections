@@ -9,3 +9,6 @@ Using the staging area we can add only the code we want to commit. Using git dif
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches would help when dealing with localizations of software or creating experimental features. They're also useful when having multiple people working on code together. This allows us to freely work on the code without worrying about breaking stuff.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams illustrate the branch structure, showing where they were created and where they merge. It also helps us see which commits (if any) may be lost due to not being part of a branch.
